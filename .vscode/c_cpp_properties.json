@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "STM32",
+      "includePath": [
+        "Synth",
+        "drivers/cmsis",
+        "drivers/BSP",
+        "drivers/STM32F4xx_HAL_Driver/Inc",
+        "drivers/STM32_USB_Host_Library/Core/Inc",
+        "drivers/USBH_midi_class/Inc"
+      ],
+      "defines": [],
+      "compilerPath": "C:\\PROGRAM FILES (X86)\\GNU ARM EMBEDDED TOOLCHAIN\\9 2020-Q2-UPDATE\\BIN\\ARM-NONE-EABI-G++.EXE",
+      "cStandard": "c17",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
